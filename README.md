@@ -5,6 +5,8 @@ Projects and HWs - Spring 2016
 
 Instructor: Erkan Zergeroglu
 
+Course Book: UNIX SYSTEMS Programming - Communication, Concurrency and Threads by Kay A. Robbins, Steven Robbins 
+
 ## Projects:
 
 * Midterm Project: IntegralGenServer and Clients
