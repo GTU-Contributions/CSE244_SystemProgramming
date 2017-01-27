@@ -17,8 +17,6 @@ in Project_Final directory.
 
 ## Homeworks:
 
-#### The source codes of HWs will be uploaded soon!
-
 * HW1: GrepFromFile - A program which searches a given string as input in a 
 file and writes the line and column of the finded occurrences into a log file.
 
