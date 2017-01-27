@@ -1,7 +1,7 @@
 /*****************************************************************************
- *	HW1_131044084_Mehmed_Mustafa											 *
- *	System Programming - GrepFromFile									     *
- *	Date: 09.03.2016														 *
+ *      HW1_131044084_Mehmed_Mustafa                                         *
+ *      System Programming - GrepFromFile                                    *
+ *      Date: 09.03.2016                                                     *
  *****************************************************************************/
 
 #include <stdio.h>
