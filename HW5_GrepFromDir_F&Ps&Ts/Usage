@@ -1,0 +1,2 @@
+Usage: ./GrepFromDir dirName stringToSearch
+Example: ./GrepFromDir ./TestA ece

@@ -1,0 +1,10 @@
+Server: 
+	Usage:		./FileShareServer <Port Number>
+	Example:	./fileShareServer 15666
+
+Client:
+	Usage:		./Client <Server IP Address> <Port Number>
+	Example:	./Client 127.0.0.1 15666
+
+Port number for the server and clients must be same!
+The IP Address is 127.0.0.1 for local server

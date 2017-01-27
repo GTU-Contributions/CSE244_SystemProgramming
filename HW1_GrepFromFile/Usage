@@ -1,0 +1,2 @@
+Usage: ./GrepFromFile fileName stringToSearch
+Example: ./GrepFromFile Test.txt ece

@@ -1,0 +1,5 @@
+Usage: ./IntegralGen -<resolution> -<max # of clients>
+Example: ./IntegralGen -3.5 -5
+
+Usage: ./Client -<fi> -<fj> -<time_interval> -<operation>
+Example: ./Client -f2 -f3 -5 -*
