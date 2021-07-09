@@ -3,7 +3,7 @@ Gebze Technical University
 
 Projects and HWs - Spring 2016
 
-Instructor: Erkan Zergeroglu
+Instructor: Prof. Dr. Erkan Zergeroglu
 
 Course Book: UNIX SYSTEMS Programming - Communication, Concurrency and Threads by Kay A. Robbins, Steven Robbins 
 
